@@ -1,0 +1,40 @@
+<button type="button" class="searchBtn" onclick="document.getElementById('reserv').style.display='block'"
+					style='background-color:black; color:white; width:70px;' >글쓰기</button>
+
+
+
+
+
+
+
+	<!-- reservation 입력창 start -->
+			<div id="reserv" class="reservation">
+				<form name="reservation_form" class="reservation_form ani"
+					action="reservation.do?m=time" method="post">
+					<p>
+						<strong>세미나실</strong><span> : </span> <select id="s_number2"
+							name="s_number">
+							<option value=1>1번방 (4인/모니터x)</option>
+							<option value="2">2번방 (4인/모니터o)</option>
+							<option value="3">3번방 (6인/모니터x)</option>
+							<option value="4">4번방 (6인/모니터o)</option>
+							<option value="5">5번방 (8인/모니터x)</option>
+							<option value="6">6번방 (8인/모니터o)</option>
+						</select>
+					</p>
+					<div class="calenCon">
+						<label for="calender"><Strong>시작 날짜</Strong></label> <input
+							type="text" id="datetimepicker" name="calender"
+							autocomplete="off"><br> <label for="start"><Strong>시작
+								시간</Strong></label> <input type="text" id="date_timepicker_start" name="start"
+							autocomplete="off" disabled><br> <label for="end"><Strong>종료
+								시간</Strong></label> <input type="text" id="date_timepicker_end" name="end"
+							autocomplete="off" disabled>
+					</div>
+					<div class="btnDiv">
+						<button type="button" onclick="Reservation()">예약하기</button>
+						<button type="button" onclick="reservationCancle()"
+							class="cancelbtn">Cancel</button>
+					</div>
+				</form>
+			</div>

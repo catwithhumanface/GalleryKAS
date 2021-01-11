@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/exhibition_page.jsp=UTF-8
+encoding//src/kas/exhibition/control/ExhibitionController.java=UTF-8
+encoding//src/kas/exhibition/model/ExhibitionDAO.java=UTF-8
+encoding//src/kas/review/control/ReviewController.java=UTF-8
+encoding//src/kas/review/model/ReviewDAO.java=UTF-8
+encoding//src/soo/util/filter/EncodingFilter.java=UTF-8
