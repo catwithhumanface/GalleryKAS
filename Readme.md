@@ -36,23 +36,23 @@
 ## 1. Résultat
 ### *Main Page*
   
-![MainPage1](md_imgs/main1.PNG)
-![MainPage2](md_imgs/main2.PNG)
-![MainPage3](md_imgs/main3.PNG)
+![MainPage1](md_imgs/main1.png)
+![MainPage2](md_imgs/main2.png)
+![MainPage3](md_imgs/main3.png)
 <br>
 &nbsp;Présentation des deux services que l'on offre ; **Recommandation d'exhibitions**, **Forum**
 
 ---
 
 ### *Artists*
-![ArtistsPage](md_imgs/artists.PNG)
+![ArtistsPage](md_imgs/artists.png)
 <br>
 &nbsp; Liste des noms d'artists que l'on recommande sont à disposition. Lors que l'on touche le nom d'artiste, le poster de l'artiste s'affiche à droite grâce à javascript(jquery). <br><br>
 
 ---
 
 ### *Exhibitions*
-![Review](md_imgs/review.PNG)
+![Review](md_imgs/review.png)
 <br>
 &nbsp; Les trois consultants propose des exhibitions de différents styles. <br><br>
 
@@ -60,7 +60,7 @@
 
 
 ### *Review*
-![Review](md_imgs/review.PNG)
+![Review](md_imgs/review.png)
 <br>
 &nbsp; Un forum de discussion permet de discuter les expériences sur les expositions présentées. <br><br>
 
@@ -68,7 +68,7 @@
 
 ### *Search*
 
-![Review](md_imgs/review.PNG)
+![Review](md_imgs/review.png)
 <br>
 &nbsp; Le bar de recherche permet de trouver facilement une exhibition que l'on cherche. <br><br>
 
@@ -76,7 +76,7 @@
 
 
 ### *About*
-![About](md_imgs/about.PNG)
+![About](md_imgs/about.png)
 <br>
 &nbsp;La page About présente de quoi s'agit le projet, et les informations complémentaires.
 
