@@ -1,6 +1,6 @@
 
 # ABOUT PROJECT
-#### [ GalleryKAS ] Développement Site Web : Site de Gallery ART, Recommandation d'exhibitions, Forum de partage expériences <br><span style="font-size:15px">*( 2020.07.01 ~ 2020.07.08 )*</span>
+#### [ GalleryKAS ] Développement Site Web en MVC Pattern : Site de Gallery ART, Recommandation d'exhibitions, Forum de partage expériences <br><span style="font-size:15px">*( 2020.07.01 ~ 2020.07.08 )*</span>
 
 ## 1. Membres de l'équipe
 
@@ -48,6 +48,15 @@
 ![ArtistsPage](md_imgs/artists.PNG)
 <br>
 &nbsp; Liste des noms d'artists que l'on recommande sont à disposition. Lors que l'on touche le nom d'artiste, le poster de l'artiste s'affiche à droite grâce à javascript(jquery). <br><br>
+
+---
+
+### *Exhibitions*
+![Review](md_imgs/review.PNG)
+<br>
+&nbsp; Les trois consultants propose des exhibitions de différents styles. <br><br>
+
+---
 
 
 ### *Review*
